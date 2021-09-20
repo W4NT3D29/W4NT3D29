@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @W4NT3D29, My real name is Omar and I'm from Mexico
 - 🌱 I’m currently working with react and node.js as a Fullstack javascript developer
-- I also have experience with php and as a UX and UI designer
+- I also have experience with php and as a UX & UI designer
 - 📫 How to reach me ... my email is omar97_1@hotmail.com
 
 <!---
