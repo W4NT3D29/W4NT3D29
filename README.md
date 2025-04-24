@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @W4NT3D29, My real name is Omar Figueroa and I'm from Guadalajara, México
 - 🌱 I’m currently working with React, Node and AWS as a Fullstack developer
-- I also have experience with php and as a UX/UI designer
+- I also have experience as Data Enginner
 - 📫 How to reach me ... my email is omar97_1@hotmail.com
 
 <!---
