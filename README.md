@@ -12,5 +12,5 @@ I specialized in building high-scale distributed systems and **Agentic AI workfl
 ### 🏗️ Featured Architectural Case Studies (NDA-Friendly)
 *Because my most recent work is in private enterprise repositories, I maintain documentation of the architectures I design:*
 
-* [**Agentic Workflow Demo**](#) - A reference implementation of a multi-agent system using AWS Bedrock.
+* [**Agentic Workflow Demo**](https://github.com/W4NT3D29/agentic-ai-reference-architecture) - A reference implementation of a multi-agent system using AWS Bedrock.
 * [**High-Scale Kafka Pipeline**](#) - Architectural breakdown of a 5M+ daily event stream.
