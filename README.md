@@ -1,29 +1,31 @@
 # Hi, I'm Omar Figueroa 👋
 
 **Senior Software Engineer | Agentic AI & Event-Driven Cloud Architect**  
-Guadalajara, México 🇲🇽 | Founder @ [Sythera Labs](https://www.sytheralabs.com)
+Guadalajara, México 🇲🇽
 
 ---
 
-I design and ship **production-grade Agentic AI systems** and real-time event-driven architectures that turn complex enterprise data streams into autonomous, intelligent workflows.
+I design and ship **production-grade Agentic AI systems** and real-time event-driven cloud architectures that turn complex enterprise data into autonomous, intelligent workflows.
 
-Currently working at **Exact Sciences** (via ITJ). Previously, I spent nearly two years as a Software & Data Engineer at **Cox Automotive** (via FPT Software), delivering large-scale distributed systems. And I also worked at **Belong Health**, where I built scalable AI-powered event-driven platforms in the cloud.
+Currently working at **Exact Sciences** (via ITJ). Previously led scalable AI-powered event-driven platforms at **Belong Health** (25% efficiency gain) and spent nearly two years as Software & Data Engineer at **Cox Automotive** (via FPT Software).
 
-My focus is building scalable, intelligent systems that combine high-volume streaming platforms with autonomous AI agents — enabling US healthcare and enterprise clients to move from reactive data processing to proactive, decision-making workflows.
+My focus is bridging high-volume streaming platforms (Kafka/MSK + Spark) with autonomous AI agents — helping US healthcare and enterprise clients move from reactive systems to proactive decision-making at scale.
 
-### ✨ What I Deliver
-- Multi-agent orchestration and **Agentic RAG** architectures  
-- Real-time intelligent event-driven pipelines  
-- Scalable cloud-native AI solutions with measurable business impact
+### ✨ Key Impact & Deliverables
+- Built multi-agent systems and AWS Bedrock bots that reduced call handling time by **10%** and agent processing time by **35%**
+- Architected ETL pipelines handling **5M+ daily events**
+- Designed React/GraphQL interfaces and AI-summarized workflows that improved operational efficiency by **25%** for 10,000+ healthcare users
 
 ### 🚀 Current Focus
 Scaling Agentic AI and event-driven cloud platforms in healthcare.
 
 ### 🛠️ Tech Stack
+**Languages** — Javascript • Java • TypeScript • Python  
+**Frameworks & Libraries** — React • Angular • Express • NestJS • Spring  
 **AI & Agents** — AWS Bedrock • LangChain/LangGraph • Multi-Agent Systems • Agentic RAG  
-**Data & Streaming** — Apache Kafka • Apache Spark • Event-Driven Architecture
-**Languages** — Java • TypeScript • React • Angular • Python
-**Cloud** — AWS
+**Databases & Vector Stores** — Qdrant • Amazon Kendra • PostgreSQL • DynamoDB • MongoDB • Snowflake  
+**Data & Streaming** — Apache Kafka (MSK) • Apache Spark • Apache Flink • Pandas • Event-Driven Architecture  
+**Cloud** — AWS (Lambda, ECS, Terraform)
 
 ---
 
@@ -38,14 +40,12 @@ End-to-end real-time intelligent pipeline combining streaming data with autonomo
 ---
 
 ### 📚 Other Public Repositories
-- **[real-time-semantic-data-freshness-pipeline](https://github.com/W4NT3D29/real-time-semantic-data-freshness-pipeline)** — Real-time semantic data pipeline for Agentic RAG and AI knowledge bases
-
-*(Most of my enterprise work at Belong Health, Exact Sciences, and Cox Automotive is under NDA.)*
+- **[real-time-semantic-data-freshness-pipeline](https://github.com/W4NT3D29/real-time-semantic-data-freshness-pipeline)** — Real-time semantic data pipeline for Agentic RAG
+*(Most of my enterprise work at Exact Sciences, Belong Health, and Cox Automotive is under NDA.)*
 
 ---
 
 ### 📫 Let's Connect
-- **Website** → [sytheralabs.com](https://www.sytheralabs.com)
 - **LinkedIn** → [linkedin.com/in/omar-figueroa-80528921b](https://www.linkedin.com/in/omar-figueroa-80528921b/)
 - **X** → [@omarfigueroa10](https://x.com/omarfigueroa10)
 
